@@ -95,3 +95,73 @@
 
 
 }
+
+
+
+
+
+
+
+.logo{
+    width: 100px;
+}
+
+.link1{
+    padding: 10px 20px;
+    border-radius: 5px 5px 0px 0px;
+    transition: 0.2s;
+}
+.link1:hover{
+    background-color: rgba(0, 0, 0, 0.123);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.842);
+   
+}
+
+
+
+.link2{
+    padding: 10px 20px;
+    border-radius: 5px 5px 0px 0px;
+    transition: 0.2s;
+}
+.link2:hover{
+    background-color: rgba(0, 0, 0, 0.123);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.842);
+   
+}
+
+
+
+.link3{
+    padding: 10px 20px;
+    border-radius: 5px 5px 0px 0px;
+    transition: 0.2s;
+}
+.link3:hover{
+    background-color: rgba(0, 0, 0, 0.123);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.842);
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
